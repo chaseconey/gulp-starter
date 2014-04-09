@@ -1,0 +1,24 @@
+{
+  "name": "gulptest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "~3.6.0",
+    "gulp-cached": "~0.0.3",
+    "gulp-concat": "~2.2.0",
+    "gulp-jshint": "~1.5.3",
+    "gulp-uglify": "~0.2.1",
+    "jshint-stylish": "~0.1.5",
+    "gulp-imagemin": "~0.2.0"
+  },
+  "devDependencies": {
+    "gulp-changed": "~0.3.0",
+    "gulp-clean": "~0.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
